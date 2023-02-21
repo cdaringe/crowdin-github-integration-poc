@@ -1,4 +1,0 @@
-{
-  "bar_a": "mes amis, c'est un TRÈS DIFFÉRENT ET CHANGÉ {translation}",
-  "bar_b": "Mes ennemis, je t'aime beaucoup : {amount, select, lots {un tas} other {pas du tout}}."
-}
