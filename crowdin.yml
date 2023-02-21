@@ -25,7 +25,7 @@ files: [
       # Where translations will be placed
       # e.g. "/locale/%two_letters_code%/%original_file_name%"
       #
-      "translation": "%original_path%/translations/%two_letters_code%.json",
+      "translation": "/%original_path%/translations/%two_letters_code%.json",
       "export_only_approved": true,
       "skip_untranslated_strings": true,
     },
