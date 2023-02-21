@@ -1,0 +1,4 @@
+{
+  "bar_a": "mis amigos, esto es MUY DIFFERENTE Y CANGADO {translation}",
+  "bar_b": "¡mis enemigos, te amo esta cantidad: {amount, select, lots {¡Un puñado de} other {¡En absoluto!}}"
+}
