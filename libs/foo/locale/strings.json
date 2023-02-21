@@ -1,4 +1,5 @@
 {
   "starlog": "Star Log // {1,date,::MMMMdjmm}: There was {2} on planet {0}. Planet {0,number,percent} was my favorite planet.",
-  "ufoo": "ubar"
+  "ufoo": "ubar",
+  "foo_a": "A thrilling chase, a wondrous place."
 }
